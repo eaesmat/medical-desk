@@ -1,0 +1,162 @@
+* {
+  padding: 0;
+  margin: 0;
+
+  /* font-family: 'Poppins'; */
+}
+
+.navbar {
+  height: 80px;
+
+  /* width: 1920px; */
+  left: 0;
+  top: 0;
+  border-radius: 0;
+  background-color: #09425a;
+  padding: 10px;
+}
+
+.logo {
+  height: 40px;
+  width: 131px;
+  left: 300px;
+  top: 41px;
+  border-radius: 0;
+  padding-left: 30px;
+}
+
+.para {
+  /* PRENOTA SERVIZIOIN STORE */
+  color: #09425a;
+
+  /* font-family: Poppins; */
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.sePara {
+  color: #09425a;
+}
+
+.location-container {
+  height: 121px;
+
+  /* width: 1402px; */
+
+  /* width: 1000px; */
+  left: 1px;
+  top: 91px;
+  border-radius: 5px;
+  background: #d0d8da;
+}
+
+.location-para {
+  height: 48px;
+  width: 435px;
+  left: 160px;
+  top: 148px;
+
+  /* border-radius: nullpx; */
+
+  /* font-family: Poppins; */
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 54px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #09425a;
+}
+
+.float {
+  float: right;
+  color: #09425a;
+}
+
+.box {
+  height: 150px;
+  width: 352px;
+  left: 0;
+  top: 0;
+  border-radius: 5px;
+  background: #d0d8da;
+}
+
+.box2 {
+  height: 150px;
+  width: 352px;
+  left: 0;
+  top: 0;
+  border-radius: 5px;
+  background: #0fb7b6;
+}
+
+.gary {
+  background: #d0d8da;
+}
+
+.label {
+  color: #09425a;
+}
+
+.blue {
+  background: #0fb7b6;
+}
+
+.button {
+  background-color: #d0d8da;
+  border-radius: 50px;
+  color: white;
+  width: 300px;
+}
+
+.label img {
+  height: 10px;
+  width: 20px;
+  padding-left: 15px;
+}
+
+.bank-form {
+  background: #f0f4f5;
+}
+
+.pay {
+  height: 30px;
+  width: 30px;
+}
+
+.button1 {
+  background-color: #0fb7b6;
+  border-radius: 50px;
+  color: white;
+  width: 300px;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+.footer {
+  /* height: 320px; */
+
+  /* width: 1920px; */
+
+  /* left: 0px;
+top: 0px; */
+  border-radius: 0;
+  background: #09425a;
+  margin-top: 40px;
+}
+
+.profile-button {
+  background-color: #d0d8da;
+  border: none;
+  padding: 20px;
+}
+
+.profile-button1 {
+  background-color: #0fb7b6;
+  border: none;
+  padding: 20px;
+  color: white;
+}
